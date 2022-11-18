@@ -1,5 +1,5 @@
 # Python-Data-Science
-- พื้นฐานที่ใช้ก่อน list , tuple , dictionary
+- พื้นฐานที่ควรรู้ list , tuple , dictionary
 - numpy
 
 Python | Order 
