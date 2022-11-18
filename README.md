@@ -2,7 +2,7 @@
 - พื้นฐานที่ใช้ก่อน list , tuple , dictionary
 - numpy
 
-Markdown | Less 
+Python | Order 
 --- | --- 
-*Still* | `renders` 
-1 | 2 
+*basic* | :grinning: 
+numpy | :smile:
